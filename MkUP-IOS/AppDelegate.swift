@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  MakeUP-IOS
+//  MkUP-IOS
 //
 //  Created by danielmedalsi1234 on 18/08/2018.
 //  Copyright © 2018 danielmedalsi1234. All rights reserved.
